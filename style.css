@@ -1,0 +1,22 @@
+.task {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.task h1 {
+  text-align: center;
+  color: #1853209d;
+}
+
+.myImg {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.MyBtn {
+  width: 100px;
+  height: 30px;
+  background-color: bisque;
+  position: absolute;
+  top: 25px;
+}
